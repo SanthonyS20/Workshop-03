@@ -3,7 +3,7 @@
 |---------------|---------------|-----------|--------------------|       
 | Anthony Samen | Title         |SanthonyS20| asamen@myseneca.ca |
 | Karim Sarif   | Text          |   ksarif  | ksarif@myseneca.ca |
-|Cody Cartwright| Text          | Cody42005 |                    |
+|Cody Cartwright| Text          | Cody42005 | codyrc05@gmail.com |
 # Project Description
 Three paragraphs describing the project  
 Problem (paragraph 1) – Clearly describe the problem the project address.  
